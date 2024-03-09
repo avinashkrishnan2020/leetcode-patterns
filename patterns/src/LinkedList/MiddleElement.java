@@ -13,7 +13,7 @@ public class MiddleElement {
      * Logic: fastPtr moves twice as fast as slowPtr.
      * Therefore, when fastPtr completes iterating the list, the
      * slowPtr will only be halfway through.
-     * 
+     *
      * @param head
      * @return
      */
